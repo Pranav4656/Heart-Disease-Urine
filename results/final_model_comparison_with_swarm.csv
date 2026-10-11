@@ -1,0 +1,13 @@
+Dataset,Model,Accuracy
+Mechanistic,LightGBM,0.9846666666666668
+Mechanistic,XGBoost,0.9841333333333332
+Mechanistic,1-D CNN,0.9808
+Mechanistic,Random Forest,0.9637333333333332
+Mechanistic,CRF,0.9209333333333334
+Probabilistic,1-D CNN,0.8090666666666667
+Probabilistic,Random Forest,0.8021333333333334
+Probabilistic,XGBoost,0.7842666666666667
+Probabilistic,LightGBM,0.7829333333333334
+Probabilistic,CRF,0.7753333333333333
+mechanistic,Weighted Mean Swarm MLP,0.8586666666666667
+probabilistic,Weighted Mean Swarm MLP,0.7726666666666666
